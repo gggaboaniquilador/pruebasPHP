@@ -23,7 +23,7 @@ $a -> mostrar();
 
 $b = new Automovil();
 $b -> marca = "Fiat";
-$b -> modelo = "Uno";
+$b -> modelo = "Golf";
 $b -> mostrar();
 
 $c = new Automovil();
